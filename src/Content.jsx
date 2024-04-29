@@ -1,11 +1,10 @@
+
 const Content = () => {
 
-  
-  return ( 
-    <section>
-      
-    </section>
-   );
-}
- 
+  return <section>
+    
+
+  </section>;
+};
+
 export default Content;
