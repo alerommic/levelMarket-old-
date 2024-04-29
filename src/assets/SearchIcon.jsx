@@ -1,4 +1,4 @@
-const Search = (props) => (
+const SearchIcon = (props) => (
   <svg
     id="Layer_1"
     xmlns="http://www.w3.org/2000/svg"
@@ -29,4 +29,4 @@ const Search = (props) => (
     />
   </svg>
 );
-export default Search;
+export default SearchIcon;

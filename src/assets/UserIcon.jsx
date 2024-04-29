@@ -1,4 +1,4 @@
-const User = (props) => (
+const UserIcon = (props) => (
   <svg
     width="1.5em"
     height="1.5em"
@@ -15,4 +15,4 @@ const User = (props) => (
     />
   </svg>
 );
-export default User;
+export default UserIcon;

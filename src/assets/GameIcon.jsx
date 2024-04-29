@@ -1,4 +1,4 @@
-const Game = (props) => (
+const GameIcon = (props) => (
   <svg
     id="designs"
     xmlns="http://www.w3.org/2000/svg"
@@ -16,4 +16,4 @@ const Game = (props) => (
     />
   </svg>
 );
-export default Game;
+export default GameIcon;

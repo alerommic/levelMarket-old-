@@ -1,4 +1,4 @@
-const Cart = (props) => (
+const CartIcon = (props) => (
   <svg
     fill="#000000"
     width="1.5em"
@@ -34,4 +34,4 @@ const Cart = (props) => (
     />
   </svg>
 );
-export default Cart;
+export default CartIcon;
